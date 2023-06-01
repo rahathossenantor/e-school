@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+/* 
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+.bg-body-tertiary{
+    background: #F0FFF0 !important;
+}
+
+#banner{
+    padding: 70px 0;
+    background-color: #F0FFF0;
+}
+
+#features, #courses{
+    margin: 40px 0;
+}
+.features-content{
+    padding: 30px 0;
+    border: 1px solid black;
+}
+.features-content p{
+    margin: 0;
+}
+.couses-title{
+    padding: 20px 0 40px 0;
+}
+.course-content{
+    border: 1px solid black;
+    padding: 25px 20px;
+}
+.course-content p{
+    margin: 0;
+}
